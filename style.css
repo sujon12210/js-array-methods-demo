@@ -1,0 +1,22 @@
+body{
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#f1f5f9;
+}
+
+.box{
+  background:white;
+  padding:30px;
+  border-radius:8px;
+  width:320px;
+}
+
+pre{
+  background:#e5e7eb;
+  padding:10px;
+  margin-top:10px;
+  font-size:12px;
+}
